@@ -1267,18 +1267,18 @@ body {
 .cid-r14z9bgR7f .mbr-section-btn {
   color: #ffffff;
 }
-.cid-r14yCnBya9 {
+.cid-r14yBps3yd {
   padding-top: 0px;
-  padding-bottom: 45px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-r14yCnBya9 .mbr-overlay {
-  background: #2bdc9d;
+.cid-r14yBps3yd .mbr-overlay {
+  background: #efefef;
 }
-.cid-r14yCnBya9 .card {
+.cid-r14yBps3yd .card {
   padding: 1rem 1rem 2rem 1rem;
 }
-.cid-r14yCnBya9 .card-img {
+.cid-r14yBps3yd .card-img {
   padding: 0;
   box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
   border-top-left-radius: .25rem;
@@ -1287,28 +1287,28 @@ body {
   border-bottom-right-radius: 0;
   overflow: hidden;
 }
-.cid-r14yCnBya9 .card-box {
+.cid-r14yBps3yd .card-box {
   border-bottom-left-radius: .25rem;
   border-bottom-right-radius: .25rem;
   background: #ffffff;
   padding: 2rem;
   box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
 }
-.cid-r14yCnBya9 .mbr-text {
-  color: #444444;
-}
-.cid-r14yCnBya9 .mbr-section-subtitle {
+.cid-r14yBps3yd .mbr-text {
   color: #8d97ad;
 }
-.cid-r14yCnBya9 .mbr-section-btn {
+.cid-r14yBps3yd .mbr-section-subtitle {
+  color: #8d97ad;
+}
+.cid-r14yBps3yd .mbr-section-btn {
   margin-left: 0;
 }
 @media (max-width: 767px) {
-  .cid-r14yCnBya9 .card-title {
+  .cid-r14yBps3yd .card-title {
     text-align: center;
   }
-  .cid-r14yCnBya9 p.mbr-text,
-  .cid-r14yCnBya9 p.date {
+  .cid-r14yBps3yd p.mbr-text,
+  .cid-r14yBps3yd p.date {
     text-align: center;
   }
 }
@@ -1416,18 +1416,18 @@ body {
 .cid-r14zQ6ju04 .mbr-section-btn {
   color: #f4f8fa;
 }
-.cid-r14yBps3yd {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-r14yCnBya9 {
+  padding-top: 0px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
-.cid-r14yBps3yd .mbr-overlay {
-  background: #efefef;
+.cid-r14yCnBya9 .mbr-overlay {
+  background: #2bdc9d;
 }
-.cid-r14yBps3yd .card {
+.cid-r14yCnBya9 .card {
   padding: 1rem 1rem 2rem 1rem;
 }
-.cid-r14yBps3yd .card-img {
+.cid-r14yCnBya9 .card-img {
   padding: 0;
   box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
   border-top-left-radius: .25rem;
@@ -1436,28 +1436,28 @@ body {
   border-bottom-right-radius: 0;
   overflow: hidden;
 }
-.cid-r14yBps3yd .card-box {
+.cid-r14yCnBya9 .card-box {
   border-bottom-left-radius: .25rem;
   border-bottom-right-radius: .25rem;
   background: #ffffff;
   padding: 2rem;
   box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
 }
-.cid-r14yBps3yd .mbr-text {
+.cid-r14yCnBya9 .mbr-text {
+  color: #444444;
+}
+.cid-r14yCnBya9 .mbr-section-subtitle {
   color: #8d97ad;
 }
-.cid-r14yBps3yd .mbr-section-subtitle {
-  color: #8d97ad;
-}
-.cid-r14yBps3yd .mbr-section-btn {
+.cid-r14yCnBya9 .mbr-section-btn {
   margin-left: 0;
 }
 @media (max-width: 767px) {
-  .cid-r14yBps3yd .card-title {
+  .cid-r14yCnBya9 .card-title {
     text-align: center;
   }
-  .cid-r14yBps3yd p.mbr-text,
-  .cid-r14yBps3yd p.date {
+  .cid-r14yCnBya9 p.mbr-text,
+  .cid-r14yCnBya9 p.date {
     text-align: center;
   }
 }
@@ -1671,46 +1671,6 @@ body {
     display: block;
   }
 }
-.cid-r1fDF6h4WO {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f4f8fa;
-}
-.cid-r1fDF6h4WO .mbr-iconfont {
-  font-size: 50px;
-  transition: color .3s;
-  padding: 1.5rem;
-}
-.cid-r1fDF6h4WO .mbr-section-title {
-  margin: 0;
-}
-.cid-r1fDF6h4WO .mbr-section-subtitle {
-  color: #8d97ad;
-}
-.cid-r1fDF6h4WO .card-img span {
-  color: #1dc9cb;
-}
-.cid-r1fDF6h4WO .row-item {
-  margin-bottom: 2rem;
-}
-.cid-r1fDF6h4WO .row-item:hover .wrapper {
-  background: linear-gradient(90deg, #369898, #5eeebb);
-  cursor: pointer;
-  transform: translateY(-10px);
-  transition: all 0.3s;
-}
-.cid-r1fDF6h4WO .row-item:hover .card-img span {
-  color: #ffffff !important;
-}
-.cid-r1fDF6h4WO .row-item:hover .mbr-card-title {
-  color: #ffffff !important;
-}
-.cid-r1fDF6h4WO .wrapper {
-  padding: 2.5rem 1rem;
-  background: #fff;
-  border-radius: 5px;
-  box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
-}
 .cid-r1fDKxZlte {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1822,7 +1782,7 @@ body {
 .cid-r1fE000GD3 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/545581706-2000x1333.jpg");
+  background-image: url("../../../assets/images/pisco-vineyard-in-peru-1254x837.jpg");
 }
 .cid-r1fE000GD3 .row {
   justify-content: flex-end;
@@ -1892,7 +1852,7 @@ body {
 .cid-r1fDso5HlN {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/istock-910344166-1548x678.jpg");
+  background-color: #08579f;
 }
 @media (max-width: 767px) {
   .cid-r1fDso5HlN .content {
@@ -1983,4 +1943,13 @@ body {
   font-family: MobiriseIcons !important;
   content: '\e966';
   padding-right: .5rem;
+}
+.cid-r1fDso5HlN P {
+  color: #ffffff;
+}
+.cid-r1fDso5HlN .mbr-text UL {
+  color: #ffffff;
+}
+.cid-r1fDso5HlN .column-title {
+  color: #ffffff;
 }
